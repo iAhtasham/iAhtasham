@@ -77,6 +77,3 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <br>
-
-![Ahtasham's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAhtasham&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAhtasham&layout=compact&theme=dark&hide_border=true)
